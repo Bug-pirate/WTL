@@ -36,7 +36,7 @@
 
 .hero-img {
     width: 100%;
-    height: 600px;
+    height: 615px;
     padding: 20px;
     border-radius: 30px;
     box-sizing: border-box; /* Ensure padding is included in width */
@@ -158,4 +158,84 @@
     justify-content: space-around  ;
     flex-wrap: wrap; /* Allow wrapping on smaller screens */
 }
+.sec-4b{
+    display: flex;
+    font-size: small;
+    align-items: center;
+}
 
+.sec-4div{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif ;
+    margin-left: 12px;
+
+    
+}
+.sec-4p{
+    font-size: medium;
+    font-weight:600;
+    margin-bottom: 4px;
+    
+}
+.sec-5{
+    width: 100%;
+    align-items: center;
+    padding-left: 200px;
+    margin-top: 60px;
+    display: flex;
+    gap: 40px;
+}
+
+.sec-5img{
+    height: 380px;
+}
+
+.sec-5txt{
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 68px;
+    color: #35363A;
+}
+
+.sec-5txt p{
+    color: #808188;
+}
+
+.sec-5btn{
+    height: 38px;
+    width: 140px;
+    background-color: #35363A;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+.sec-6{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.link-head{
+    font-size: 25px;
+    font-weight: 600;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+}
+
+.f-link{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+.top-hr{
+    margin-top: 80px;
+}
