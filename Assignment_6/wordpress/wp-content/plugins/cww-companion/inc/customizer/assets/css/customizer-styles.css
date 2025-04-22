@@ -1,0 +1,11 @@
+.cww-pro-msg-wrapp {
+    background: #2271b1;
+    padding: 15px 12px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #fff;
+}
+
+li#customize-control-cww_theme_color{
+    display: block !important;
+}

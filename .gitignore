@@ -1,0 +1,25 @@
+    # WordPress core (optional if you're only managing themes/plugins)
+wp-admin/
+wp-includes/
+
+# Uploads/media files
+wp-content/uploads/
+
+# Caches
+wp-content/cache/
+*.log
+
+# Themes and plugins you don’t want to version control
+# (remove these lines if you're developing a theme/plugin and want to keep it)
+wp-content/plugins/
+wp-content/themes/
+
+# OS and IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Composer and Node modules (if used)
+vendor/
+node_modules/
